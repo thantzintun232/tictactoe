@@ -9,7 +9,7 @@ My notes from deploying a Node.js application on AWS during the Sparta Global Cl
 | [App deployment with user data](app-user-data-automation.md) | Automating application setup when an EC2 instance launches. |
 | [Creating an AMI](creating-ami-documentation.md) | Saving a configured instance as an image and launching new instances from it. |
 | [MongoDB deployment](mongodb_deployment.md) | Setting up MongoDB, connecting the app and enabling automatic startup. |
-| [Monitoring and CPU alerts](Monitoring.md) | CloudWatch dashboards, ApacheBench load testing and email alerts for high CPU usage. |
+| [Monitoring and CPU alerts](monitoring.md) | CloudWatch dashboards, ApacheBench load testing and email alerts for high CPU usage. |
 | [Auto Scaling and load balancing](autoscaling.md) | Launch templates, load balancing, CPU-based scaling and automatic instance replacement. |
 
 Start with app deployment, then follow the AMI, MongoDB, monitoring and Auto Scaling guides.
